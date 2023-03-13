@@ -6,7 +6,7 @@
 - [注意事项(Note)](#注意事项--note-)
 - [许可证(License)](#许可证--license-)
 
-## 项目概述(Decription)
+## 项目概述(Description)
 - 这是一个基于JavaFX的学生信息管理系统。<br>
   This is a Student Information Management System based on JavaFX.
 - 这个项目是我空闲时间做的一个练手项目，代码为第一版，存在不足。欢迎对本项目提出意见与建议。<br>
